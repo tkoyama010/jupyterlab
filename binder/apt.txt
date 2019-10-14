@@ -1,1 +1,10 @@
-
+automake
+libtool
+make
+g++
+libqd-dev
+libqhull-dev
+libmumps-seq-dev
+liblapack-dev
+libopenblas-dev
+libpython3-dev

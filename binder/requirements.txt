@@ -1,2 +1,2 @@
 notebook
-mayavi2
+mayavi

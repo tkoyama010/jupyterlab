@@ -1,3 +1,5 @@
 notebook
 numpy
 scipy
+vtk
+mayavi

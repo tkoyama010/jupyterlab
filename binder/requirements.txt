@@ -1,6 +1,6 @@
 notebook
 numpy
 scipy
-vtk
-wxPython
-mayavi
+matplotlib
+plotly
+meshio

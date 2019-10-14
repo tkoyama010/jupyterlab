@@ -5,4 +5,4 @@ git clone https://git.savannah.nongnu.org/git/getfem.git
 cd getfem
 bash autogen.sh
 ./configure --with-pic --enable-python3=yes
-make -j8 install
+sudo make -j8 install

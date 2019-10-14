@@ -8,3 +8,4 @@ libmumps-seq-dev
 liblapack-dev
 libopenblas-dev
 libpython3-dev
+mayavi2

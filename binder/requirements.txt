@@ -1,6 +1,1 @@
-notebook
-numpy
-scipy
-matplotlib
-plotly
-meshio
+mayavi
